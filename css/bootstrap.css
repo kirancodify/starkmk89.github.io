@@ -49,6 +49,8 @@ body {
 
 a {
   background: transparent;
+  background-image: url(images/new.jpg);
+  backgroung-position: right bottom
 }
 
 a:focus {
