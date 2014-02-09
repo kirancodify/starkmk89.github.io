@@ -507,6 +507,13 @@ p {
   line-height: 1.4;
 }
 
+.lead1{
+  margin-bottom: 20px;
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 1.4;
+}
+
 @media (min-width: 768px) {
   .lead {
     font-size: 21px;
